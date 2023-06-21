@@ -1,2 +1,2 @@
-# MERN1
-a sociopedia based on MERN
+# MERN
+A SOCIAL MEDIA APP (SOCIOPEDIA) USING MERN STACK 
